@@ -1,6 +1,6 @@
 # Klasifikasi-MLP-Hubungan-antara-Stres-dan-Tidur
 ### **Dibuat oleh:**
-**1. Khansa Farras Callista - 1306621067**
+**1. Khansa Farras Callista - 1306621067** <br>
 **2. Salma Mardhiyah - 1306621061**
 
 -----
